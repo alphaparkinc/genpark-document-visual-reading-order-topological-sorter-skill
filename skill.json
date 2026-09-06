@@ -1,0 +1,12 @@
+{
+  "name": "genpark-document-visual-reading-order-topological-sorter-skill",
+  "version": "1.0.0",
+  "description": "Multi-column newspaper layout reading order topological sorter converting 2D spatial text bboxes into natural flow.",
+  "category": "Document Intelligence & Vision-Table Parsing",
+  "runtime": "python3",
+  "entrypoint": "client.py",
+  "author": "GenPark AI",
+  "repository": "https://github.com/alphaparkinc/genpark-document-visual-reading-order-topological-sorter-skill",
+  "verified": true,
+  "stars": 8
+}
